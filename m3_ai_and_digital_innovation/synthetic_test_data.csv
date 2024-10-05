@@ -1,4 +1,4 @@
-text,priority
+text,label
 The application crashes whenever I try to upload a file.,High
 "Great user interface, but the login is slow.",Low
 I found a bug in the reporting tool; it keeps timing out.,Medium
