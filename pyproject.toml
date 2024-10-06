@@ -31,6 +31,8 @@ torchaudio = "^2.4.1"
 accelerate = "^0.34.2"
 tqdm = "^4.66.5"
 httpx = "^0.27.2"
+faker = "^30.1.0"
+ml-things = "^0.0.1"
 
 
 
